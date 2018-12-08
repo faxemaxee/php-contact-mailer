@@ -5,6 +5,7 @@
 
     require '../../include/phpmailer/Exception.php';
     require '../../include/phpmailer/PHPMailer.php';
+    require '../../include/phpmailer/SMTP.php';
 
     require_once '../../utilities/load-env.php';
     require_once '../../utilities/response.php';
