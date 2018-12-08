@@ -1,0 +1,11 @@
+Hallo,
+
+Du hast eine neue Nachricht von deiner Webseite: only-soul.de
+
+Name: %%OSC0%%
+Firma: %%OSC1%%
+E-Mail: %%OSC2%%
+Betreff: %%OSC3%%
+Nachricht: %%OSC4%%
+
+Viel Erfolg!

@@ -1,5 +1,6 @@
 
 .env
+src/api/templates
 
 
 # Created by https://www.gitignore.io/api/code,composer
