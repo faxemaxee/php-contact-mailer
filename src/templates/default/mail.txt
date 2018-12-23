@@ -1,6 +1,6 @@
 Hallo,
 
-Du hast eine neue Nachricht von deiner Webseite: only-soul.de
+Du hast eine neue Nachricht von deiner Webseite.
 
 Name: %%OSC0%%
 Firma: %%OSC1%%
